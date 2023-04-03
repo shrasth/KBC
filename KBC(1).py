@@ -109,10 +109,3 @@ for i in range(0, len(questions)):
         break
 
 print(f"Thank you for playing.\nCongratulations, You have won ₹{money}")
-
-
-# In[ ]:
-
-
-
-
